@@ -1,0 +1,56 @@
+.myButton {
+	box-shadow: -2px 2px 15px 0px #000000;
+	background:linear-gradient(to bottom, #6faada 5%, #333945 100%);
+	background-color:#c21f1f;
+	border-radius:28px;
+    display:block ;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:25px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #8f4f4f;
+    border: none;
+    margin-top: 1em;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #453333 5%, #c21f1f 100%);
+	background-color:#453333;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.box{
+background-color: rgba(245, 245, 245, 0.274);
+margin: 90% 6%;
+padding: 5% 10%;
+width: fit-content;
+position: absolute;
+
+}
+
+.input{
+display: block;
+margin-bottom: 0.7em;
+width: 600px;
+font-size: 30px;
+background: none;
+border: 2px solid black;
+padding: 2px 3px;
+
+color: rgb(0, 0, 0);
+border-radius: 30px;
+
+
+}
+
+body{
+    background:linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%);
+	background-color:linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%);
+
+
+
+}
