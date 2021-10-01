@@ -1,0 +1,47 @@
+.login{	
+    font-size: 50px;margin-top: 80%;
+}
+
+ body{
+	background: linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%) no-repeat center center fixed;
+	background-size:cover;	
+}
+
+.social{
+    margin-top: 2em;
+    margin-right: 3em;
+    height: 150px;
+    
+}
+
+.socialf{
+   height: 145px;
+   margin-top: 2em;
+}
+
+@media screen and (min-width: 1314px){
+
+    .login{	
+        font-size: 35px;margin-top: 25%;
+    }
+    
+     body{
+        background: linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%) no-repeat center center fixed;
+        background-size:cover;	
+    }
+    
+    .social{
+        margin-right: 0.5em;
+        height: 70px;
+    }
+
+    .socialf{
+        margin-right: 0.5em;
+        height: 70px;
+
+    }
+
+
+
+
+}
