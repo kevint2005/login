@@ -1,0 +1,57 @@
+.tr{
+
+    margin-right: -20px; margin-top: 3em;
+    height: 550px;
+
+}
+
+.h1{
+
+
+
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif; margin-top: 34%;
+}
+
+body{
+    background: linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%) no-repeat center center fixed;
+	background-size:cover;
+	
+
+
+
+}
+
+@media screen and (min-width: 1314px){
+    .tr{
+
+        margin-right: -20px; margin-top: 3em;
+        height: 250px;
+    
+    }
+    
+    .h1{
+    
+    
+    
+    
+        font-family:Verdana, Geneva, Tahoma, sans-serif; margin-top: 10%;
+    }
+    
+    body{
+        background: linear-gradient(to bottom, #ffffff 5%, #6ca1c0 100%) no-repeat center center fixed;
+        background-size:cover;
+        
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+}
